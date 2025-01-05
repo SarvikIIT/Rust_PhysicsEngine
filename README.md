@@ -47,7 +47,7 @@ We’d love your help in shaping the future of this project! Whether you’re re
 Have feedback, questions, or collaboration ideas? Let’s connect:  
 
 - 📧 [Email](mailto:sarvik.student.cd.eee24@itbhu.ac.in)  
-- 💬 [Discussions](https://github.com/SarvikIIT/rust-physics-engine/discussions)  
+- 💬 [Discussions](https://github.com/SarvikIIT/Rust_PhysicsEngine/discussions)  
 
 ---  
 
